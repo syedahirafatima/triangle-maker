@@ -5,7 +5,7 @@ This is a simple Python script that prints triangles made of asterisks (*). You 
 # ▶️ How to Run
 1.Save the code file as "python left_triangle.py"<br>
 2. Make sure Python is installed.<br>
-3. Run python --version in your terminal to check.<br>
+3. Run python --version in your  terminal to check.<br>
 4. Run the script:<br>
 ```bash
 python trianglemaker.py
